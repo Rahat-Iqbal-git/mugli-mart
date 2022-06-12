@@ -1,2 +1,2 @@
-# mugli-mart
+# Mugli Mart
 ## An e-commerce aplication
